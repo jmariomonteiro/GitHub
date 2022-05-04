@@ -1,6 +1,6 @@
 # GitHub
 
- Este repositório armazm os códigos e scripts da Aula 2.2 ao vivo - Git; GitHub - entendendo os comandos.
+ Este repositório armazena os códigos e scripts da Aula 2.2 ao vivo - Git; GitHub - entendendo os comandos.
 
 ## começando
 
