@@ -1,2 +1,9 @@
 # GitHub
-Aula 2.2 ao vivo - Git &amp; GitHub - entendendo os comandos
+
+ Este repositório armazm os códigos e scripts da Aula 2.2 ao vivo - Git; GitHub - entendendo os comandos.
+
+## começando
+
+Basta clonar o repositório
+
+git clone git@github.com:jmariomonteiro/GitHub.git
